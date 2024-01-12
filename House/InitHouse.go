@@ -6,7 +6,6 @@ import (
 	"myHouse/House/Family"
 	"myHouse/House/Furniture"
 	"myHouse/House/Rooms"
-	//"myHouse/House/Rooms"
 )
 
 func InitHouse() {
