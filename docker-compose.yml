@@ -1,0 +1,4 @@
+myhouse:
+  build: ./
+  command: ./myhouse
+  

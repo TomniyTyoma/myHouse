@@ -1,9 +1,9 @@
 package main
 
 import (
-	"myHouse/InitHouse"
+	"myHouse/House"
 )
 
 func main() {
-	InitHouse.InitHouse()
+	House.InitHouse()
 }
